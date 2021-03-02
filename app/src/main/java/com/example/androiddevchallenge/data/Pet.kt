@@ -14,9 +14,7 @@
  * limitations under the License.
  */
 package com.example.androiddevchallenge.data
-
 import androidx.annotation.DrawableRes
-
 data class Pet(
     val name: String,
     val breed: String,
