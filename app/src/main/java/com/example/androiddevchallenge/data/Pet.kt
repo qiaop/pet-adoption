@@ -23,4 +23,5 @@ data class Pet(
     val gender: String,
     val size: String,
     @DrawableRes val picture: Int,
+
 )
